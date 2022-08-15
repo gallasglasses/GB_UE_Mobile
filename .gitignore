@@ -75,7 +75,10 @@
 
 # Content
 */Content/StarterContent/*
+*/Content/Mannequin/*
 */Content/FirstPersonCPP/*
 */Content/FirstPerson/*
+*/Content/ThirdPerson/*
+*/Content/ThirdPersonBP/*
 */Content/FPWeapon/*
 */Content/Geometry/*
